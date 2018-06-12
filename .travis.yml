@@ -6,5 +6,5 @@ install:
   - nuget restore ./src/Sample.sln
  
 script:
-  - xbuild ./src/yoursolution.sln
+  - xbuild ./src/Sample.sln
   - nunit-console ./src/Sample.Tests/bin/Debug/Sample.Tests.dll
