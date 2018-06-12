@@ -10,6 +10,7 @@ namespace Sample
     {
         public static void Main()
         {
+            
             Console.WriteLine("Anonymous Income Comparison Program");
             Console.WriteLine("Person 1");
             Console.WriteLine("Hourly Rate?");
