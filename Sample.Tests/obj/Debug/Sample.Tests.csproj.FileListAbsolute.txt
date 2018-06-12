@@ -1,0 +1,16 @@
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\NUnit3.TestAdapter.dll
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\nunit.engine.dll
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\nunit.engine.api.dll
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\Mono.Cecil.dll
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\Sample.Tests.dll
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\Sample.Tests.pdb
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\nunit.framework.dll
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\Sample.dll
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\Sample.pdb
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\nunit.framework.pdb
+c:\Users\jesse\source\repos\Sample\Sample.Tests\bin\Debug\nunit.framework.xml
+c:\Users\jesse\source\repos\Sample\Sample.Tests\obj\Debug\Sample.Tests.csprojResolveAssemblyReference.cache
+c:\Users\jesse\source\repos\Sample\Sample.Tests\obj\Debug\Sample.Tests.csproj.CoreCompileInputs.cache
+c:\Users\jesse\source\repos\Sample\Sample.Tests\obj\Debug\Sample.Tests.dll
+c:\Users\jesse\source\repos\Sample\Sample.Tests\obj\Debug\Sample.Tests.pdb

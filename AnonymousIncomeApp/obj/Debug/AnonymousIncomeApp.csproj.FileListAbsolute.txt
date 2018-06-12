@@ -1,0 +1,6 @@
+c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.exe.config
+c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.exe
+c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.pdb
+c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.csproj.CoreCompileInputs.cache
+c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.exe
+c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.pdb
