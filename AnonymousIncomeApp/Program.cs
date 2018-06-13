@@ -12,7 +12,7 @@ namespace AnonymousIncomeApp
         {
             Console.WriteLine("Anonymous Income Comparison Program");
             Console.WriteLine("Person 1?");
-            Console.WriteLine("Person 10?");
+            Console.WriteLine("Person 100?");
             Console.WriteLine("Hourly Rate?");
             var answer1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
