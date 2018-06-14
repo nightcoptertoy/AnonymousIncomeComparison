@@ -4,3 +4,10 @@ c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\bin\Debug\AnonymousIncomeA
 c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.csproj.CoreCompileInputs.cache
 c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.exe
 c:\Users\jesse\source\repos\Sample\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.pdb
+C:\Users\jesse\source\repos\travistest\AnonymousIncomeComparison\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.exe.config
+C:\Users\jesse\source\repos\travistest\AnonymousIncomeComparison\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.exe
+C:\Users\jesse\source\repos\travistest\AnonymousIncomeComparison\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.pdb
+C:\Users\jesse\source\repos\travistest\AnonymousIncomeComparison\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.csprojResolveAssemblyReference.cache
+C:\Users\jesse\source\repos\travistest\AnonymousIncomeComparison\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\travistest\AnonymousIncomeComparison\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.exe
+C:\Users\jesse\source\repos\travistest\AnonymousIncomeComparison\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.pdb
